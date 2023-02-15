@@ -21,13 +21,13 @@ namespace PokemonBattle.Moves.Actions
         {
 
             float B = 1;
-            if (self.types.Contains(move.pType))
+            if (self.types.Contains(move.ptype))
                 B = 1.5f;
 
             float E = 1;
             foreach (var type in target.types) 
             {
-                E*=pType.calcEfectivity(move.pType, type);
+                E*=pType.calcEfectivity(move.ptype, type);
             }
 
             float V = (new Random()).Next(85,101);
@@ -61,7 +61,7 @@ namespace PokemonBattle.Moves.Actions
 
             target.stats.hp = (int)Math.Truncate(target.stats.hp-damage);
 
-            return $"{self.name}->{target.name}: {move.name}({move.type},{move.pType})->({target.types[0]},{target.types[1]}{{{E}}} ==> {Math.Ceiling(damage)})";
+            return $"{self.name}->{target.name}: {move.name}({move.type},{move.ptype})->({target.types[0]},{target.types[1]}{{{E}}} ==> {Math.Ceiling(damage)})";
             
         }
     }
