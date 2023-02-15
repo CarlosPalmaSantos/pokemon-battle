@@ -1,0 +1,15 @@
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\bin\Debug\net6.0\pokemon-battle-cs.exe
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\bin\Debug\net6.0\pokemon-battle-cs.deps.json
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\bin\Debug\net6.0\pokemon-battle-cs.runtimeconfig.json
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\bin\Debug\net6.0\pokemon-battle-cs.dll
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\bin\Debug\net6.0\pokemon-battle-cs.pdb
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\pokemon-battle-cs.csproj.AssemblyReference.cache
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\pokemon-battle-cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\pokemon-battle-cs.AssemblyInfoInputs.cache
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\pokemon-battle-cs.AssemblyInfo.cs
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\pokemon-battle-cs.csproj.CoreCompileInputs.cache
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\pokemon-battle-cs.dll
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\refint\pokemon-battle-cs.dll
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\pokemon-battle-cs.pdb
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\pokemon-battle-cs.genruntimeconfig.cache
+D:\pokemon-battle\cs\pokemon-battle\pokemon-battle-cs\pokemon-battle-cs\obj\Debug\net6.0\ref\pokemon-battle-cs.dll
