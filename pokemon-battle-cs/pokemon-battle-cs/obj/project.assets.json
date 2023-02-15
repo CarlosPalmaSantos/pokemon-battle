@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pokemon-battle\\cs\\pokemon-battle\\pokemon-battle-cs\\pokemon-battle-cs\\pokemon-battle-cs.csproj",
+      "projectUniqueName": "C:\\Users\\thema\\Source\\Repos\\pokemon-battle\\pokemon-battle-cs\\pokemon-battle-cs\\pokemon-battle-cs.csproj",
       "projectName": "pokemon-battle-cs",
-      "projectPath": "D:\\pokemon-battle\\cs\\pokemon-battle\\pokemon-battle-cs\\pokemon-battle-cs\\pokemon-battle-cs.csproj",
+      "projectPath": "C:\\Users\\thema\\Source\\Repos\\pokemon-battle\\pokemon-battle-cs\\pokemon-battle-cs\\pokemon-battle-cs.csproj",
       "packagesPath": "C:\\Users\\thema\\.nuget\\packages\\",
-      "outputPath": "D:\\pokemon-battle\\cs\\pokemon-battle\\pokemon-battle-cs\\pokemon-battle-cs\\obj\\",
+      "outputPath": "C:\\Users\\thema\\Source\\Repos\\pokemon-battle\\pokemon-battle-cs\\pokemon-battle-cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thema\\AppData\\Roaming\\NuGet\\NuGet.Config",
